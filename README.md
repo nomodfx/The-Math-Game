@@ -1,5 +1,5 @@
 # The-Math-Game
-An interactive math game in java that teaches children basic calculations.
+An interactive math game in java that teaches children basic calculations by using the random number generator.
 
 For each correct answers they will recieve a $0.05 increase in their overall score. If they get the wrong answer, they will be
 dedecuted $0.03. 
